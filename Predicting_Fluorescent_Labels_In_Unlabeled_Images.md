@@ -51,3 +51,10 @@
 
 To be continued
 
+---------
+
+# Publication Resources
+
+* [In Silico Labeling: Predicting Fluorescent Labels in Unlabeled Images.](https://www.ncbi.nlm.nih.gov/pubmed/29656897)
+* ScienceDirect Link: [In Silico Labeling: Predicting Fluorescent Labels in Unlabeled Images.](https://www.sciencedirect.com/science/article/pii/S0092867418303647?via%3Dihub)
+* Author: [Christiansen EM](https://www.ncbi.nlm.nih.gov/pubmed/?term=Christiansen%20EM%5BAuthor%5D&cauthor=true&cauthor_uid=29656897)
