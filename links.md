@@ -14,3 +14,10 @@
 	* Author: Christiansen EM
 	* Institution: Google
 	* Important Points: Deep Neural Networks can accurately predict cell labels. Many features of specific cell types can bet determined, among them texture, health, location, and subcellular structures
+
+
+* [Applications of Human Liver Chimeric Mice in Biomedical Science](https://gut.bmj.com/content/gutjnl/early/2017/05/08/gutjnl-2016-313565.full.pdf)
+	* Author: [Karl Dimiter Bessig](https://www.bcm.edu/people/view/karl-dimiter-bissig-m-d-ph-d/b1612893-ffed-11e2-be68-080027880ca6)
+	* Institution: Baylor College of Medicine
+	* Institution: Pittsburgh Liver Research Center
+	* Date: 8/28/18
