@@ -42,3 +42,10 @@ Quantitative systems pharmacology (QSP) has emerged as an innovative approach in
 
 * Find more at CPT: Pharmacometrics and Systems Pharmacology
 * There is a continued need for open-source model dissemination to enable community and regulatory evaluation and use, and for public disclosure of the clinical impact of QSP platform models. These efforts will ultimately advance the broader adoption of this promising approach in clinical drug development
+
+
+## Resources
+
+[Quantitivative Systems Pharmacology: A Case for Disease Models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5217891/)
+[Anne Heatherington](https://www.bloomberg.com/research/stocks/people/person.asp?personId=431898903&privcapId=11611587)
+[Pfizer Twitter](https://twitter.com/pfizer)
