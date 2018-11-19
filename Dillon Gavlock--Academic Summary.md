@@ -1,7 +1,6 @@
 # Dillon Gavlock
 
 ## Academic Summary
-------------------------------
 ### University of Pittsburgh Graduate School of Public Health
 
 Status: Non-Degree
