@@ -4,9 +4,7 @@
 2017
 
  
-
-## Introduction: (5:00)
-### Two approaches to Systems Biology
+### Two approaches to Systems Biology (5:00)
 
 1. Bottom-Up Approach
 2. Top-Down Approach
